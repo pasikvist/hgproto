@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@types/lodash": "^4.14.191",
+    "@types/moment-timezone": "^0.5.30",
+    "lodash": "^4.17.21",
+    "moment-timezone": "^0.5.41"
+  }
+}
