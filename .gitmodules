@@ -1,0 +1,4 @@
+[submodule "src/fi/hg/frontend"]
+	path = src/fi/hg/frontend
+	url = http://github.com/heusalagroup/fi.hg.frontend.git
+	branch = main
